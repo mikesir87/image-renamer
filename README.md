@@ -24,3 +24,5 @@ docker container run --rm -tiv /path/to/images:/images mikesir87/image-renamer
 ## Installation
 
 If on a Mac, unzip the `RenameImages.workflow.zip` archive and double-click on the "Rename Images" workflow. You will be prompted to install the custom action. Once you do so, you can simply right-click on any directory and rename!
+
+The script being used is located in `workflow.sh`
